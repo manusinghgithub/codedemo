@@ -1,3 +1,4 @@
 # codedemo
-this is my git repository
-author- manvanchhit singh
+this is my git repository.
+<br>
+Author- manvanchhit singh
